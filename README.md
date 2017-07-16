@@ -1,3 +1,9 @@
+# Online Demo
+
+To view the notebook please follow the link
+
+https://nbviewer.jupyter.org/github/Linguistics-DTU/DTU_7th_Sem_Project/blob/master/Jupyter/Main.ipynb
+
 # CONTRIBUTORS
 
 - Abhinav Sharma
