@@ -2,7 +2,10 @@
 
 To view the notebook please follow the link
 
-https://nbviewer.jupyter.org/github/Linguistics-DTU/DTU_7th_Sem_Project/blob/master/Jupyter/Main.ipynb
+
+https://nbviewer.jupyter.org/github/Linguistics-DTU/DTU_8th_Sem_Project/blob/master/Jupyter/languages_and_corpus.ipynb
+
+https://nbviewer.jupyter.org/github/Linguistics-DTU/DTU_8th_Sem_Project/blob/master/Jupyter/KatTy_DSM.ipynb
 
 # CONTRIBUTORS
 
