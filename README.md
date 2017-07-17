@@ -28,7 +28,7 @@ May 2016
     
 - Explore the usage of Category Theory ( Haskell oriented ) to various Linguistics Models 
  
-- We based this project on the exploratory grounds based on the book by \textbf{Paul Chilton (2014) - Language, Space and Mind 
+- We based this project on the exploratory grounds based on the book by Paul Chilton (2014) - Language, Space and Mind 
 
 - Gained knowledge about modeling language parser in a strictly Functional programming environment such as Haskell
 
