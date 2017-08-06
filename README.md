@@ -14,6 +14,7 @@ https://nbviewer.jupyter.org/github/Linguistics-DTU/DTU_8th_Sem_Project/blob/mas
 
 
 ## TODO
+##### DOCKERIZE
 
 - Github pages
 - Restructure
