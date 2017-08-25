@@ -2,7 +2,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 plt.style.use('bmh')
-%matplotlib inline 
 
 fig_size = plt.rcParams["figure.figsize"]
 fig_size[0] = 14

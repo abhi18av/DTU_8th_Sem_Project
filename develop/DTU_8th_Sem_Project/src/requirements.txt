@@ -1,0 +1,5 @@
+matplotlib==2.0.2
+nltk==3.2.4
+numpy==1.13.1
+click==6.7
+python-dotenv==0.6.5
